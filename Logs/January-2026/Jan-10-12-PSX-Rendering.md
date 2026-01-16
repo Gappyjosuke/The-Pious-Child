@@ -84,7 +84,7 @@ One of the most noticeable visual traits of PlayStation-1 games is unstable geom
 > **Recreating Vertex Snapping Using Materials**
 
 <div align="center">
-  <img src="/Media/Vertex_Snapping.gif" width="600" alt="Vertex Snapping">
+  <img src="/Media/Vertex_Snapping_.gif" width="600" alt="Vertex Snapping">
   <br>
   <b>Intentional Vertex Snapping & Geometric Instability</b>
 </div>
@@ -116,7 +116,7 @@ Older hardware supported only a limited number of colors. Because of this, smoot
 > **Color Banding and Dithering**
 
 <div align="center">
-  <img src="/Media/Post_Processing_Dithering.gif" width="600" alt="Post Processing">
+  <img src="/Media/Post_Processing_Dithering_.gif" width="600" alt="Post Processing">
   <br>
   <b>Post Processing Effects</b>
 </div>
@@ -133,7 +133,7 @@ To soften these boundaries, we applied **[Dithering](https://en.wikipedia.org/wi
 > **Final Visual Outcome**
 
 <div align="center">
-  <img src="/Media/Visual_Outcome.gif" width="600" alt="Visual Outcome Demo">
+  <img src="/Media/Visual_Outcome_.gif" width="600" alt="Visual Outcome Demo">
   <br>
   <b>Demonstration: Final Visual Outcome</b>
 </div>

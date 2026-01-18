@@ -7,5 +7,6 @@
 | Date | Category | Topic | Link |
 | :---: | :---: | :---: | :---: |
 | **Jan 10,11,12** | Rendering | Study and Implementation of PSX Rendering Techniques | [View Log](./Jan-10-12-PSX-Rendering.md) |
+| **Jan 15,16,17,18** | Character | PS1 Character Modeling & Global Repository Maintenance | [View Log](./Jan-15-18-PSX-Character-Head.md)|
 
 </div>

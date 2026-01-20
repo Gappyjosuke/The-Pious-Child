@@ -1,7 +1,7 @@
 [← Back to January Index](./README.md)
 
 # Daily Study Log
-**Date:** January 19, 2026  
+**Date:** January 19,20, 2026  
 **Focus:** Fundamental Character Rigging Concepts & Inverse Kinematics in Blender
 
 ---
